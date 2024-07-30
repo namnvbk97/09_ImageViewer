@@ -1,0 +1,17 @@
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\bin\x64\Debug\ImageViewer.dll
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\bin\x64\Debug\ImageViewer.pdb
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\bin\x64\Debug\Vision.Image.dll
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\bin\x64\Debug\WPF.Common.dll
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\obj\x64\Debug\ImageViewer.csproj.AssemblyReference.cache
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\obj\x64\Debug\ImageViewer.g.cs
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\obj\x64\Debug\ImageViewer_MarkupCompile.cache
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\obj\x64\Debug\ImageViewer_MarkupCompile.lref
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\obj\x64\Debug\ImageViewer.baml
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\obj\x64\Debug\ImageViewer.g.resources
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\obj\x64\Debug\ImageViewer.Properties.Resources.resources
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\obj\x64\Debug\ImageViewer.csproj.GenerateResource.cache
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\obj\x64\Debug\ImageViewer.csproj.CoreCompileInputs.cache
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\obj\x64\Debug\ImageViewer.csproj.CopyComplete
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\obj\x64\Debug\ImageViewer.dll
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\obj\x64\Debug\ImageViewer.pdb
+E:\NAM\GIT\SRC\010_Deeplearning_Studio\04_Vision_Control\09_ImageViewer\03.Codes\ImageViewer\ImageViewer\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
